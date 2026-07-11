@@ -191,22 +191,18 @@ load volume change, revenue change, and MoM % using `LAG()` window function.
 
 ## Repository Structure
 
-Logistics-Operations-SQL_PowerBI-AI/
-├── SQL/
-│   ├── Query1_Drivers_Performance_Scorecard.sql
-│   ├── Query2_Route_Profitability_Analysis.sql
-│   ├── Query3_On_Time_Delivery_Performance_by_Customer.sql
-│   ├── Query4_Fuel_Efficiency_Cost_Analysis.sql
-│   ├── Query5_Fleet_Maintenance_Cost_Downtime.sql
-│   └── Query6_Monthly_Load_Volume_Revenue_Trend.sql
-├── PowerBi/
-│   └── LogisticsOperations.pbix
-├── Queries_and_Conclusion/
-│   └── Project_6_Queries_and_Conclusions.docx
-├── Screenshots/
-│   ├── Page1_Operations_Overview.png
-│   └── Page2_Fleet_Performance.png
-└── README.md
+| Folder | File | Description |
+|---|---|---|
+| SQL/ | Query1_Drivers_Performance_Scorecard.sql | Driver performance analysis |
+| SQL/ | Query2_Route_Profitability_Analysis.sql | Route profitability ranking |
+| SQL/ | Query3_On_Time_Delivery_Performance_by_Customer.sql | Customer service levels |
+| SQL/ | Query4_Fuel_Efficiency_Cost_Analysis.sql | Fuel cost & MPG by truck |
+| SQL/ | Query5_Fleet_Maintenance_Cost_Downtime.sql | Maintenance cost & downtime |
+| SQL/ | Query6_Monthly_Load_Volume_Revenue_Trend.sql | Monthly revenue trend |
+| PowerBi/ | LogisticsOperations.pbix | Power BI dashboard file |
+| Queries_and_Conclusion/ | Project_6_Queries_and_Conclusions.docx | Full findings document |
+| Screenshots/ | Page1_Operations_Overview.png | Dashboard page 1 |
+| Screenshots/ | Page2_Fleet_Performance.png | Dashboard page 2 |
 
 ## Related Projects
 
