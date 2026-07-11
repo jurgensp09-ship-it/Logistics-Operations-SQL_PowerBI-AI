@@ -21,6 +21,16 @@ The dataset was sourced from Kaggle:
 
 ---
 
+## Dashboard Preview
+
+### Page 1 — Operations Overview
+![Operations Overview](Screenshots/Page1_Operations_Overview.png)
+
+### Page 2 — Fleet Performance
+![Fleet Performance](Screenshots/Page2_Fleet_Performance.png)
+
+---
+
 ## Tools & Techniques
 
 | Tool | Usage |
@@ -180,3 +190,28 @@ load volume change, revenue change, and MoM % using `LAG()` window function.
 ---
 
 ## Repository Structure
+
+Logistics-Operations-SQL_PowerBI-AI/
+├── SQL/
+│   ├── Query1_Drivers_Performance_Scorecard.sql
+│   ├── Query2_Route_Profitability_Analysis.sql
+│   ├── Query3_On_Time_Delivery_Performance_by_Customer.sql
+│   ├── Query4_Fuel_Efficiency_Cost_Analysis.sql
+│   ├── Query5_Fleet_Maintenance_Cost_Downtime.sql
+│   └── Query6_Monthly_Load_Volume_Revenue_Trend.sql
+├── PowerBi/
+│   └── LogisticsOperations.pbix
+├── Queries_and_Conclusion/
+│   └── Project_6_Queries_and_Conclusions.docx
+├── Screenshots/
+│   ├── Page1_Operations_Overview.png
+│   └── Page2_Fleet_Performance.png
+└── README.md
+
+## Related Projects
+
+- [Project 1 — DataCo Supply Chain Analysis](https://github.com/jurgensp09-ship-it/Supply-Chain-SQL-Analysis)
+- [Project 2 — Sales & Employee Performance](https://github.com/jurgensp09-ship-it/Sales-Employee-Performance-SQL-PowerBI)
+- [Project 3 — HR Analytics SQL + Power BI](https://github.com/jurgensp09-ship-it/HR-Analytics-SQL-PowerBI)
+- [Project 4 — Inventory Stock Management](https://github.com/jurgensp09-ship-it/Inventory-Analytics-SQL-PowerBI)
+- [Project 5 — HR Analytics Dashboard](https://github.com/jurgensp09-ship-it/HR-Analytics-PowerBI-Dashboard)
